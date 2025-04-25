@@ -69,11 +69,11 @@ export const DATA = {
 	work: [
 		{
 			company: "Code Brew Labs",
-			href: "https://atomic.finance",
+			href: "https://www.code-brew.com/",
 			badges: [],
 			location: "Mohali, Punjab",
 			title: "Head of Technology",
-			logoUrl: "/atomic.png",
+			logoUrl: "/cbl.png",
 			start: "Oct, 2021",
 			end: "Present",
 			description:
@@ -82,10 +82,10 @@ export const DATA = {
 		{
 			company: "BlockTech Brew",
 			badges: [],
-			href: "https://shopify.com",
+			href: "https://blocktechbrew.com/",
 			location: "Chandigarh, India",
 			title: "Blockchain Architect",
-			logoUrl: "/shopify.svg",
+			logoUrl: "/btb.png",
 			start: "Oct, 2022",
 			end: "Present",
 			description:
@@ -93,11 +93,11 @@ export const DATA = {
 		},
 		{
 			company: "Tech Strikers",
-			href: "https://nvidia.com/",
+			href: "https://www.techstriker.com/",
 			badges: [],
 			location: "Mohali, Punjab",
 			title: "Technical Lead",
-			logoUrl: "/nvidia.png",
+			logoUrl: "/techStriker.png",
 			start: "Aug, 2019",
 			end: "Sep, 2021",
 			description:
@@ -105,11 +105,11 @@ export const DATA = {
 		},
 		{
 			company: "Recorders & Medicare Systems Pvt. Ltd.",
-			href: "https://splunk.com",
+			href: "https://rmsindia.com/",
 			badges: [],
 			location: "Panchkula, Haryana",
 			title: "Software Engineer",
-			logoUrl: "/splunk.svg",
+			logoUrl: "/rms.png",
 			start: "Jan, 2015",
 			end: "June, 2016",
 			description:
@@ -118,10 +118,10 @@ export const DATA = {
 	],
 	education: [
 		{
-			school: "Punjab Technical University",
-			href: "https://ptu.ac.in/",
+			school: "Gian Jyot Institute of Technology",
+			href: "https://www.gjimt.ac.in/",
 			degree: "Master of Engineering in Computer Science",
-			logoUrl: "/buildspace.jpg",
+			logoUrl: "/gjimt.png",
 			start: "2013",
 			end: "2015",
 		},
@@ -129,7 +129,7 @@ export const DATA = {
 			school: "Chandigarh Group of Colleges",
 			href: "https://www.cgc.edu.in/",
 			degree: "Bachelor of Engineering in Computer Science",
-			logoUrl: "/waterloo.png",
+			logoUrl: "/cgc.png",
 			start: "2009",
 			end: "2013",
 		},
